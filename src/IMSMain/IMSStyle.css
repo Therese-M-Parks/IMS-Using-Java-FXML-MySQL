@@ -1,0 +1,10 @@
+.root {
+    -fx-background-color: orange;
+}
+.GridPane {
+    
+}
+.label {
+    -fx-text-fill: black;
+    
+}
